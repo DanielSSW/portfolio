@@ -4,7 +4,7 @@
     <h2 class="card-title">AI CHATBOT</h2>
     <p class="py-4">The first Vercel AI SDK Project</p>
     <div class="card-actions">
-      <a href="/" class="w-full">
+      <a href="https://ai-chat-eosin-iota.vercel.app/" class="w-full">
       <button class="btn bg-[#e7e7e7] text-neutral w-full">GO!</button>
     </a>
     </div>
